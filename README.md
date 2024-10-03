@@ -81,3 +81,8 @@ Cuando un cliente se conecta, el servidor muestra:
 
 Cuando se desconecta, se muestra:  
 `cliente desconectado por falta de intentos -> ID`
+
+## Interfaz de los Clientes
+
+![interfaz clientes](https://github.com/user-attachments/assets/92c27cd5-f00f-4d98-9fbb-3f6b5380c6a4)
+
