@@ -58,9 +58,9 @@ Cada cliente intenta adivinar la posición de premios ocultos en un tablero de t
 ### Instrucciones para ejecutar el cliente:
 
 1. Navega al directorio del proyecto:
-`cd Practica_PremiosTCP`
+   `cd Practica_PremiosTCP`
 2. Ejecuta el servidor:
-`java Cliente.java`
+   `java Cliente.java`
 
 ## Ejemplo del Tablero Inicial
 
