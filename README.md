@@ -80,4 +80,4 @@ Cuando un cliente se conecta, el servidor muestra:
 `Cliente conectado -> ID`
 
 Cuando se desconecta, se muestra:  
-`Cliente desconectado -> ID`
+`cliente desconectado por falta de intentos -> ID`
