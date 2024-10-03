@@ -46,12 +46,14 @@ Cada cliente intenta adivinar la posición de premios ocultos en un tablero de t
 
 ### Instrucciones para ejecutar el servidor:
 
-1. Clona este repositorio: 
-`git clone https://github.com/AlejandroJimenez16/Practica_PremiosTCP.git`
-2. Navega al directorio del proyecto:
-`cd Practica_PremiosTCP`
-3. Ejecuta el servidor:
-`java Servidor.java`
+1. Clona este repositorio:  
+   `git clone https://github.com/AlejandroJimenez16/Practica_PremiosTCP.git`  
+
+2. Navega al directorio del proyecto:  
+   `cd Practica_PremiosTCP`  
+
+3. Ejecuta el servidor:  
+   `java Servidor.java`
 
 ### Instrucciones para ejecutar el cliente:
 
